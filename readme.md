@@ -4,7 +4,7 @@
 
 Download cloudcompare from  [here](http://www.danielgm.net/cc/release/)
 and install it step by step
----image--
+![image](https://github.com/KaivinC/Pointcloud-npy2ply/blob/master/image/download.PNG)
 
 ## Usage
 
