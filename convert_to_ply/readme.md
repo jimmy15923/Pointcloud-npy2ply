@@ -20,4 +20,4 @@ pred_pred: The predict result of every points. data shape is (n), n is the num o
 ```
 The labels corresponding to each color are as follows:
 
-![image] (https://github.com/KaivinC/Pointcloud-npy2ply/blob/master/image/colors.png)
+![image](https://github.com/KaivinC/Pointcloud-npy2ply/blob/master/image/colors.png)
