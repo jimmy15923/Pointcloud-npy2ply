@@ -13,7 +13,7 @@ def get_args():
 
     parser.add_argument("--data_path", type = str, default = "./input.npy")
     parser.add_argument("--gt_path", type = str, default = "./seg_gt.npy")
-    parser.add_argument("--predict_path", type = str, default = "./seg_pred.npy")
+    parser.add_argument("--pred_path", type = str, default = "./seg_pred.npy")
     args = parser.parse_args()
 
     return args
